@@ -1,3 +1,4 @@
+## About Me
 📧 ashraful.ullas@gmail.com<br>👩‍🎓 First-Year Business Management Student | Aspiring Data Analyst<br>🔍 Skilled in data analysis with Excel and Python<br>📊 Developing data visualization skills with Tableau and Power BI<br>🗄️ Learning SQL for effective data management<br>📈 Expanding my expertise in Data Science and Machine Learning/AI
 
 
