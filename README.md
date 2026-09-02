@@ -1,10 +1,10 @@
-# 💫 About Me:
-<p>
-🎓 Third-Year Business Student <i>(Management Major)</i><br>
-💻 Transitioning into Software Development with a focus on <b>Backend</b> and <b>Systems</b><br>
-🌌 Interested in <b>Astronomy</b>, <b>Space</b>, and the <b>Mysteries of The Universe</b><br>
+## 💫 About Me
+
+🎓 Third-Year Business Student *(Management Major)*<br>
+💻 Transitioning into Software Development with a focus on **Backend** and **Systems**<br>
+🌌 Interested in **Astronomy**, **Space**, and the **Mysteries of the Universe**<br>
 🌐 Explore my [**Portfolio**](https://md-ashraful-islam-ullas.github.io/Portfolio-Preview/)
-</p>
+
 
 
 ## 🌐 Socials:
