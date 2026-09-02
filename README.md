@@ -1,5 +1,7 @@
 # 💫 About Me:
-📧 ashraful.ullas@gmail.com<br>🎓 Third-Year Business Student<br>💻 Transitioning into Software Development with a focus on backend and systems<br>🚀 Continuously learning through hands-on projects, scripting, and development practice
+🎓 Third-Year Business Student *(Management Major)*<br>
+💻 Transitioning into Software Development with a focus on backend and systems<br>
+🌌 Interested in astronomy, space, and the mysteries of the universe
 
 
 ## 🌐 Socials:
