@@ -9,7 +9,7 @@
 
 <br>
 <p align="center">
-  <img src="./karpathy.png" alt="Andrej Karpathy speaking" width="700"><br>
+  <img src="./karpathy.png" alt="Andrej Karpathy speaking" width="800"><br>
   <sub>
     <i>
       From the 
