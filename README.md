@@ -7,7 +7,18 @@
   <img src="https://img.shields.io/badge/View_My_Portfolio-2ea44f?style=social" alt="View My Portfolio">
 </a>
 
-
+<br>
+<p align="center">
+  <img src="./karpathy.png" alt="Andrej Karpathy speaking" width="700"><br>
+  <sub>
+    <i>
+      From the 
+      <a href="https://youtu.be/cdiD-9MMpb0">Lex Fridman Podcast #333</a>
+      at <b>2:37:52</b>
+    </i>
+  </sub>
+</p>
+<br>
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/ashraful.ullas.x) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/md-ashraful-islam-ullas) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@mdashrafulislamullas) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Much-Wishbone-10) 
